@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VicaraApp", "VicaraApp\VicaraApp.csproj", "{53CB7799-7991-42AC-9569-AB3E2C1154E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53CB7799-7991-42AC-9569-AB3E2C1154E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53CB7799-7991-42AC-9569-AB3E2C1154E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53CB7799-7991-42AC-9569-AB3E2C1154E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53CB7799-7991-42AC-9569-AB3E2C1154E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
